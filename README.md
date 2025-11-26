@@ -10,4 +10,4 @@
 [inez]: https://github.com/vasilisp/inez
 [pbsat]: https://github.com/vasilisp/pb-sat
 [pub]: https://github.com/vasilisp/pub
-[resume]: https://vasilisp.github.io/resume/resume.pdf
+[resume]: https://vasilis.cc/resume/resume.pdf
